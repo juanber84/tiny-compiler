@@ -1,4 +1,4 @@
-# Tiny Interepter and Transpiler
+# Tiny Interpreter and Transpiler
 
 A tiny interpreter and compiler which shows the basics of compiler development.
 
